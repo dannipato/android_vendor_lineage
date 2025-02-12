@@ -3539,6 +3539,8 @@
   <apn carrier="Libyana" mcc="606" mnc="00" apn="wap" proxy="192.168.8.148" port="8000" type="default,supl" />
   <apn carrier="Al-Madar MMS" mcc="606" mnc="01" apn="almadar.mms" mmsc="http://almadar.mms/servlets/mms" mmsproxy="41.208.82.50" mmsport="8080" type="mms" />
   <apn carrier="Al-Madar" mcc="606" mnc="01" apn="almadar.net" type="default,supl" />
+  <apn carrier="Al-Madar MMS" mcc="606" mnc="01" apn="ims" type="ims" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="Al-Madar MMS" mcc="606" mnc="01" apn="hos" type="xcap" protocol="IPV4V6" roaming_protocol="IPV4V6" />
   <apn carrier="Africell Gambia" mcc="607" mnc="02" apn="africellnet" type="default,supl" />
   <apn carrier="Orange WAP" apn="wap" proxy="172.16.30.9" port="8080" user="wap" password="wap" mcc="608" mnc="01" type="default,supl" />
   <apn carrier="Orange MMS" apn="mms" user="mms" password="mms" mmsc="http://mmsalize/servlets/mms" mmsproxy="172.16.30.9" mmsport="8080" mcc="608" mnc="01" type="mms" />
